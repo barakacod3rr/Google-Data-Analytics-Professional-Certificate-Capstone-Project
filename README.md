@@ -26,5 +26,8 @@ The goal was to uncover insights into **when, where, and how** road accidents oc
 - `analysis_report.Rmd` → Full R Markdown report.  
 - `final_roadaccidents.csv` → Dataset exported for Tableau.  
 
----
+### Official Certificate
+[🔗 Certificate of Completion](GoogleDataAnalyticsProfessionalCertificatev2_Badge20250731-30-d3ahvg.pdf)
+
+[🔗 Credly Link](https://www.credly.com/badges/41f9f1e4-5ef7-4d71-8ce6-1c4257a17400/public_url)
 

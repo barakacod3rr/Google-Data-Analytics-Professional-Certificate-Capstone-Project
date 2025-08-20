@@ -18,7 +18,7 @@ The goal was to uncover insights into **when, where, and how** road accidents oc
 - Crash involvement by vehicle type is based on text-flag indicators (e.g., “contains_motorcycle_words”).  
 
 ### 📊 Outputs  
-- R Markdown report with the full analysis pipeline.  
+- R Markdown report with the full analysis pipeline: [🔗 View Analysis Process](ReportAnalysis.pdf)  
 - Tableau Story dashboard (interactive): [🔗 View Tableau Story](https://public.tableau.com/shared/TFKJT44G2?:display_count=n&:origin=viz_share_link)  
 
 ### 📂 Files  

@@ -1,6 +1,6 @@
 ---
 title: "Road Accidents in Kenya (2012–2023) Analysis"
-author: "Baraka"
+author: "Eann Baraka"
 date: "2025-08-12"
 output: html_document
 ---
@@ -268,3 +268,4 @@ You can view the interactive dashboard here:\
     -   Matatus and motorcycles, being the most involved, should undergo stricter roadworthiness checks and structured driver training.\
 5.  **Further Data Collection**
     -   Enhance county-level c![]()rash reporting to reduce gaps in location precision and allow more granular analysis.
+

@@ -2,7 +2,9 @@
 title: "Road Accidents in Kenya (2012–2023) Analysis"
 author: "Baraka"
 date: "2025-08-12"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## [Abstract]{.underline}
